@@ -1,5 +1,5 @@
 import './App.css';
-import Navigation from './components/Navigation/navigation';
+import Navigation from './components/navigation/navigation';
 import { lazy, Suspense } from 'react';
 import { Switch, Route } from 'react-router-dom';
 

@@ -1,5 +1,5 @@
 import s from './Hero.module.css';
-import ProductList from '../../ProductList/ProductList';
+import ProductList from '../ProductList/ProductList';
 const listProduct = [
   { id: 1, name: 'Darkside' },
   { id: 2, name: 'DUFT' },

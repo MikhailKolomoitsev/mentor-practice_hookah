@@ -1,4 +1,4 @@
-import Hero from '../../components/Navigation/Hero/Hero';
+import Hero from '../../components/Hero/Hero';
 function HomePage() {
   return (
     <>
